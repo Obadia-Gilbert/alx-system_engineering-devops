@@ -1,7 +1,7 @@
 # alx-system_engineering-devops 
 
 
-This repository is about the projects that we are given daily in alx software engineering programme to do and pushed into github for automatic review.   
+This repository is about the projects that we are given daily in alx software engineering programme to do and publish into github for automatic review.   
 
 **0x00-shell_basics** :        This project is about all Linux basic commands i.e ls, mkdir, rm, touch, cd, cd ..  
 
